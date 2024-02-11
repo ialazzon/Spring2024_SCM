@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Project1 {
+module MyName {
 }
